@@ -1,6 +1,4 @@
-<h1 style='border-bottom: none;' align=center><b>『 ⭐ 』</b></h1>
-
----
+<h1 align=center><b>『 ⭐ 』</b></h1>
 
 <p style='white-space: nowrap;' align=center>
     <img src='https://github-readme-stats.vercel.app/api?username=gomteeng&show_icons=true&theme=dark#gh-dark-mode-only' height=160px>
