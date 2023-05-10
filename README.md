@@ -1,4 +1,4 @@
-<h1 style='border-bottom: none; text-align: center; top: 10px; position: relative;'><b>『 ⭐ 』</b></h1>
+<h1 style='border-bottom: none;' align=center><b>『 ⭐ 』</b></h1>
 
 ---
 
